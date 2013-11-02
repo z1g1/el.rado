@@ -14,8 +14,8 @@
 * m13
 
 ## Characters & Groups 
-* mmc: main character, 25 in the main story line, male alone in San Diego
-* fmc: father of main character, killed in 2025 in prision by m13 in an attempt to extract information 
+* Matthew Marcos Cortez (mmc): main character, 25 in the main story line, male alone in San Diego
+* Felix Marcos Cortez (fmc): father of main character, killed in 2025 in prision by m13 in an attempt to extract information 
 * m13: columbian inspired gang which is resopnsible for the death of fmc.  The ledgend of edr enters the group at this point that a trove of AU79 is sitting on a drive somewhere. In 2050 US War on Drugs policies continue and m13's contorl of the illegal drug trade in San Diego is enforced with street muscle.  However, the gang is also part of the thriving digital crime space as well.  With these two resource pools the group have the limited ability to monitor mmc as he searches for edr online and off.
 MajorNews.biz: the MainStream Media site. Trusted by the establishment, mocked by everyone else 
 HiveNews.net: Reddit like site which was "acuhired" by m13 as a way to launder some of thier illegal proffits and as a way to collect data for thier ID theft.  Though rumors of the ownership floats around, what better way to control rumors and inuendo then to host the nexus for them online
