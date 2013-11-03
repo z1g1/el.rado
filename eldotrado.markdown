@@ -3,74 +3,92 @@
 ## The Raids:  
 2025 News article from MajorNews.biz.  Set up the value of the drive with describing the shutdown of the El.Rado and the failure of the government to prosecute fmc at trial for running El.Rado though he is sent to prision on other charges.  Need to explain that one of the issues here is that fmc would not reveal the key and crypto prevented them from accessing the evidince as well as other digital files.
  
-	<h1>Agents Shutdown Online Black Bazar</h1>
-	<i>MajorNews.biz Mar. 1 2025</i>
-	After and extensive opeartion lasting several years Law Enforcement Agents working on Task Force Columbus have shut down the online marketplace known as El.Rado.  Users of the service were able to purchase many illegal products and services including: narcotics, forged carbon credits, fradulent identities & contract services.  The agents coordinatared a series of raids against various hosting locations and private residences in an attempt to shut down this online criminal empire which Task Force Commander Agent Marshal Stevenson commented, "readched into almost every state in the contenential union and frusturated agent's actions via its use of anonomizing services and a form on online payment which does not require the use of centralized payment card procesors".
+> ### Agents Shutdown Online Black Bazar
+> *MajorNews.biz Mar. 1 2025*
+> After and extensive opeartion lasting several years Law Enforcement Agents working on Task Force Columbus have shut down the online marketplace known as El.Rado.  Users of the service were able to purchase many illegal products and services including: narcotics, forged carbon credits, fradulent identities & contract services.  The agents coordinatared a series of raids against various hosting locations and private residences in an attempt to shut down this online criminal empire which Task Force Commander Agent Marshal Stevenson commented, "readched into almost every state in the contenential union and frusturated agent's actions via its use of anonomizing services and a form on online payment which does not require the use of centralized payment card procesors".
 
-	Users of this underground service used a digital currency known as AU79 to conduct thier transactions.  Unlike forms of payment used by legitimate buisinesses and law abiding citiens which travel through establiched channels for tracking, auditting and verification.  AU79 is exchanged directly form person to person which makes it very difficult for agents to track down usres of transactions. Payment Card Industry representtives contacted for this story on background informed MajorNews.biz that this so called "crypto currency" is used by persons online who's activites would not be approved by the groups which his industry association represents.  The spokesperson went onto remark, "some claim that AU79 was created to allow people to exchange goods person to person without leaving a digital trail and the name comes from Gold's location on the Periodic Table.  However, our research indicates that AU79 was created to keep it 'All Under 79%' refering to the US Government's tax rate.  Our industry is committed to ensureing that transactions can be auditted and that all citizens pay thier fair share."
+> Users of this underground service used a digital currency known as AU79 to conduct thier transactions.  Unlike forms of payment used by legitimate buisinesses and law abiding citiens which travel through establiched channels for tracking, auditting and verification.  AU79 is exchanged directly form person to person which makes it very difficult for agents to track down usres of transactions. Payment Card Industry representtives contacted for this story on background informed MajorNews.biz that this so called "crypto currency" is used by persons online who's activites would not be approved by the groups which his industry association represents.  The spokesperson went onto remark, "some claim that AU79 was created to allow people to exchange goods person to person without leaving a digital trail and the name comes from Gold's location on the Periodic Table.  However, our research indicates that AU79 was created to keep it 'All Under 79%' refering to the US Government's tax rate.  Our industry is committed to ensureing that transactions can be auditted and that all citizens pay thier fair share."
 
-	The prime suspect detained is Felix Marcos Cortezi, 29 of San Diego CA.  Agents using a valid warrant breached the allegged mastermind's apartment at 4 AM Pacific time this morning suprising the suspect and an unnammed minor, there were no reported injuries to officers or to the suspect.  Though the agents did not encounter any armed resistance during the operation or seize any weapons, unnnamemd law enforcment sources have infomred MN.B that they did recover a large amount of radical political materails, narcotics and a number of servers, hard drives and other electronic equipemnt.  The only drama duing the opperation was a power surge which caused a local transformer to blow, occuring only moments after the breaching charges detonantted it added a bit of punch to standard law enforcment operations.  
-    
-    During a briefing which took place after the raid, Task Force Commander Stevenson informed reporters that the electronic equipment seized is belived to contain a the files and databases which ran El.Rado as well as a large ammount of AU79.  "A task force of this size would not have been setup to take down someone selling VCRs out of the back of a van, even though the transactions were carried out with fake moey, the value of all of the transactions on El.Rado are estimated at around 50 Million USD".  Commander Stevenson continued, "El.Rado was a marketplace for criminal transactions between two parties which often did not trust eachother.  Suspect Cortez acted as a 'trusted' 3rd party in the transactions leaving a large amount of AU79 a so called 'digital currency' frozen on these devices at the time of his arrest."  Academic analysis of the AU79 system have indicated that it could act as a system of anonomous transactions, prosecution sources told MN.B that they ar confident any "digital gold" will only act as an anchor around the neck of the defendant during his prosection.  
-    
-    Felix Cortez was brought to the San Diego County Courthouse after his arrest and is expected to face an arraignmet latter today.  The Federal Prosecutor Ioanna Picasso is confident that, "Someone accused to running such a significant illegal market place wheather online or off shouldn't expect to waltz out the front door of the courthouse." Asside from the unnammed minor agents turned over to Childrens Services Cortez does not appear to have any other connections to the San Diego area though there are rumors of a distant family in Columbia which could lead the court to consider Mr. Cortez a flight risk and remand him to custody.
-    
-    Stay tuned to MajorNews.biz for continued updates on this breaking story.
+> The prime suspect detained is Felix Marcos Cortezi, 29 of San Diego CA.  Agents using a valid warrant breached the allegged mastermind's apartment at 4 AM Pacific time this morning suprising the suspect and an unnammed minor, there were no reported injuries to officers or to the suspect.  Though the agents did not encounter any armed resistance during the operation or seize any weapons, unnnamemd law enforcment sources have infomred MN.B that they did recover a large amount of radical political materails, narcotics and a number of servers, hard drives and other electronic equipemnt.  The only drama duing the opperation was a power surge which caused a local transformer to blow, occuring only moments after the breaching charges detonantted it added a bit of punch to standard law enforcment operations.  
+
+> During a briefing which took place after the raid, Task Force Commander Stevenson informed reporters that the electronic equipment seized is belived to contain a the files and databases which ran El.Rado as well as a large ammount of AU79.  "A task force of this size would not have been setup to take down someone selling VCRs out of the back of a van, even though the transactions were carried out with fake moey, the value of all of the transactions on El.Rado are estimated at around 50 Million USD".  Commander Stevenson continued, "El.Rado was a marketplace for criminal transactions between two parties which often did not trust eachother.  Suspect Cortez acted as a 'trusted' 3rd party in the transactions leaving a large amount of AU79 a so called 'digital currency' frozen on these devices at the time of his arrest."  Academic analysis of the AU79 system have indicated that it could act as a system of anonomous transactions, prosecution sources told MN.B that they ar confident any "digital gold" will only act as an anchor around the neck of the defendant during his prosection.  
+
+> Felix Cortez was brought to the San Diego County Courthouse after his arrest and is expected to face an arraignmet latter today.  The Federal Prosecutor Ioanna Picasso is confident that, "Someone accused to running such a significant illegal market place wheather online or off shouldn't expect to waltz out the front door of the courthouse." Asside from the unnammed minor agents turned over to Childrens Services Cortez does not appear to have any other connections to the San Diego area though there are rumors of a distant family in Columbia which could lead the court to consider Mr. Cortez a flight risk and remand him to custody.
+
+> Stay tuned to MajorNews.biz for continued updates on this breaking story.
  
-    <h1>Evidence Goes up in Digital Smoke</h1>
-	<i>MajorNews.biz Jun. 29 2025</i>
-    The trial of Felix Cortez, the alleged mastermind of the online black market service El.Rado, appears to have hit a snag this week.  Cortez's public defender Winona Johnston made a motion for an evidentiary hearing regarding the prosecurtions claims that Cortez operated El.Rado.  "We are not disputing that the drives were found in a unit rented by my client.  However, the prosecution has been unable or unwilling to provide me with forensic copies of the materials which were on the dirves and equipment seized in the March 1st raid".  The most serious charge which Mr. Cortez faces are under the RICO statue and these records were considered to be a critical part of the case against him.  
-    
-    At a June 19th hearing Presiding Judge Steven Rogers questioned Federal Prosecutor Ioanna Picasso about the status of the evisdince.  In response Ms. Picasso informed the court that, "During the raid of the suspects residence a power surge or something took place and the data became garbled, you know how computers can be".  MajorNews.Biz's court reporter indicated that Judge Rogers was not ammused by the tone of these comments or that the prosecutor was wasting his time.  Picasso was quick to attempt to recover her footing asking the judge for a continuance to allow for Federal technicians to have additional time to work with the date.  Mrs. Johnston objected that, "My client has been detained more than two months without being allowed to view the evidince against him."  Judge Rogers granted the prsecution a 7 day continuance but warned that he would allow no futher delays with a defendant under pre trial detention.
+> ### Evidence Goes up in Digital Smoke
+> *MajorNews.biz Jun. 29 2025*
+> The trial of Felix Cortez, the alleged mastermind of the online black market service El.Rado, appears to have hit a snag this week.  Cortez's public defender Winona Johnston made a motion for an evidentiary hearing regarding the prosecurtions claims that Cortez operated El.Rado.  "We are not disputing that the drives were found in a unit rented by my client.  However, the prosecution has been unable or unwilling to provide me with forensic copies of the materials which were on the dirves and equipment seized in the March 1st raid".  The most serious charge which Mr. Cortez faces are under the RICO statue and these records were considered to be a critical part of the case against him.  
 
-    At the followup hearing on June 26th the prosecution reported to the judge that the files were not corrupted but that the defendant had used some form of advanced encryption to make the records uninteliglble.  US Attourney Picasso then attempted to make a motion compeing the defendant to reveal the key or password to the encryption.  Defense attourney Johnston objected that her client could not be forced to reveal something which he did not have. 
-    
-    Winona Johnston: Objection your honor!  How can my client turn something over to the prosecution which he does not have posession of?
-    
-    Prosecutor Picasso: You cannot be serious, the computers were in his apartment, they were on, there was a power surge as the agents went in.  He obvously used some sort of program to hide his criminal activities!
-    
-    Winona Johnston: When will I receive the evidince backing that...
-    
-    <Gavel>
-    
-    Judge Rogers: That will be enough! Unless the prosecution has additional evidince to support the claim that the defendant took I am ready to rule on the motion.  Ms. Picasso?
-    
-    Prosecutor Picasso: Your honor, though I don't have any specific evidince that the defendant is reposnsible for this intentional concealment of evidince, common sense would indicate...
-    
-    Judge Rogers: That does not constitute evidence in my court room.  I'll ask again do you have any ecvidince to back up your theory?
-    
-    Prosecutor Picaso: Not at this time your honor.  However, I would request an additional continauce to bring in some additional technical support from a govenrment agency specialzing in defeating encryption.
-    
-    Judge Rogers: I was very specific in my previous ruling that this trial would get under way.  The defense's motion is granted and the digital evidince against Mr. Cortez cannot be intorduced to the jurry
-    
-    <Gavel>
-    
-    Winona Johnston: Your honor based on your rulling I further move that the charges against my client be dropped due to insufficent evidince.
-    
-    Judge Rogers: Motion denied, we will continue to trial.  Short Date.
-    
-    <Gavel>
-    
-    -Court Transcripte June 26 2025
-    
-    At the conlcusion of the hearing both parties doubled down on thier positions.  Prosecutor Picasso "Though the judge has taken some of our evidince away, the people still have the narcotics seized at the scene of the raid as well as Internet and call records indicating that Mr. Cortez was responsible for the operation of El.Rado.  This is a strong circumstantial case and a jury will see that as well."  Defense Attourney Winona Johnston reiterated that her client, "Does not have the indicated keys and does not know what was on the devices seized" continuing that "if a task force we as tax payers funded for years had not conducted a raid before all of the facts were in order they might be closer to the true propriator of El.Rado."
-    
-    Stay tuned to MajorNews.biz for continued updates on this breaking story.
+> At a June 19th hearing Presiding Judge Steven Rogers questioned Federal Prosecutor Ioanna Picasso about the status of the evisdince.  In response Ms. Picasso informed the court that, "During the raid of the suspects residence a power surge or something took place and the data became garbled, you know how computers can be".  MajorNews.Biz's court reporter indicated that Judge Rogers was not ammused by the tone of these comments or that the prosecutor was wasting his time.  Picasso was quick to attempt to recover her footing asking the judge for a continuance to allow for Federal technicians to have additional time to work with the date.  Mrs. Johnston objected that, "My client has been detained more than two months without being allowed to view the evidince against him."  Judge Rogers granted the prsecution a 7 day continuance but warned that he would allow no futher delays with a defendant under pre trial detention.
+
+> At the followup hearing on June 26th the prosecution reported to the judge that the files were not corrupted but that the defendant had used some form of advanced encryption to make the records uninteliglble.  US Attourney Picasso then attempted to make a motion compeing the defendant to reveal the key or password to the encryption.  Defense attourney Johnston objected that her client could not be forced to reveal something which he did not have. 
+
+> Winona Johnston: Objection your honor!  How can my client turn something over to the prosecution which he does not have posession of?
+
+> Prosecutor Picasso: You cannot be serious, the computers were in his apartment, they were on, there was a power surge as the agents went in.  He obvously used some sort of program to hide his criminal activities!
+
+> Winona Johnston: When will I receive the evidince backing that...
+
+> <Gavel>
+
+> Judge Rogers: That will be enough! Unless the prosecution has additional evidince to support the claim that the defendant took I am ready to rule on the motion.  Ms. Picasso?
+
+> Prosecutor Picasso: Your honor, though I don't have any specific evidince that the defendant is reposnsible for this intentional concealment of evidince, common sense would indicate...
+
+> Judge Rogers: That does not constitute evidence in my court room.  I'll ask again do you have any ecvidince to back up your theory?
+
+> Prosecutor Picaso: Not at this time your honor.  However, I would request an additional continauce to bring in some additional technical support from a govenrment agency specialzing in defeating encryption.
+
+> Judge Rogers: I was very specific in my previous ruling that this trial would get under way.  The defense's motion is granted and the digital evidince against Mr. Cortez cannot be intorduced to the jurry
+
+> <Gavel>
+
+> Winona Johnston: Your honor based on your rulling I further move that the charges against my client be dropped due to insufficent evidince.
+
+> Judge Rogers: Motion denied, we will continue to trial.  Short Date.
+
+> <Gavel>
+
+> -Court Transcripte June 26 2025
+
+> At the conlcusion of the hearing both parties doubled down on thier positions.  Prosecutor Picasso "Though the judge has taken some of our evidince away, the people still have the narcotics seized at the scene of the raid as well as Internet and call records indicating that Mr. Cortez was responsible for the operation of El.Rado.  This is a strong circumstantial case and a jury will see that as well."  Defense Attourney Winona Johnston reiterated that her client, "Does not have the indicated keys and does not know what was on the devices seized" continuing that "if a task force we as tax payers funded for years had not conducted a raid before all of the facts were in order they might be closer to the true propriator of El.Rado."
+
+> Stay tuned to MajorNews.biz for continued updates on this breaking story.
  
-	<h1>Fed Finger Pointing as Digital Don Case Colapses</h1>
-	<i>MajorNews.biz Jul. 15 2025</i>
-    
-    After two weeks of testimony the trial of Felix Cortez, the alleged mastermind of the online black market service El.Rado, has ended with results that will please no one.  In a loss for Federal Prosecutor Ioanna Picasso the jury was unable to retun a verdict on the top count of the indictment acusing Mr. Cortez of Operation El.Rado an online service which was closed in a dramatic raid in march of this year.  However, it is not a complete victory for Mr. Cortez and his Defense Attourney Winona Johnston as the jury did retun a verdict of guilty for the narcotics seized in his residence the day of the raid.  In a secentensing hearing following the jurry's delivery of this verdict presiding Judge Steven Rogers scentences the defendant to 10-15 years for the posession of narcotics.  
-    
-    Since the top count of the indictment resulted in a hung jurry Mr. Cortex could face further attempts by the prosecution to prove that he was the operator of El.Rado.  The underground service reported to have facilitated more than the equivilent of 50 million USD in the online 'Curency' AU79. El.Rado has disappeared from the Internet since the raid and US Attourney Picasso commented that, "We attempted to show that jurry that this service disapeared after the defendant's apartment was raided and has not returned while he has been in custody but since our digital evidince was corupted we were unable to provide sufficent evidince to the jurry.  I encourage Task Force Columbus to continue to access these records.  MajorNews.biz reached out to Task Force Commander Marshal Stevenson who's only response was, "I cannont comment on an investigation once it leaves the agents under my command."  Evidince will be retained if further prosecution will take place.
-    
-    Mr. Cortez already remanded to custoday was transfered to the Federal Marshals service and will begin serving his scentence at a location to be determined by the department of corrections.  The minor who was also present at March raid still has not been identified though MN.B can confirm that Childrens Services has been attempting to contact any additional family but at this time no connections have been made.  
+> ### Fed Finger Pointing as Digital Don Case Colapses
+> *MajorNews.biz Jul. 15 2025*
 
-    Stay tuned to MajorNews.biz for continued updates on this breaking story.
+> After two weeks of testimony the trial of Felix Cortez, the alleged mastermind of the online black market service El.Rado, has ended with results that will please no one.  In a loss for Federal Prosecutor Ioanna Picasso the jury was unable to retun a verdict on the top count of the indictment acusing Mr. Cortez of Operation El.Rado an online service which was closed in a dramatic raid in march of this year.  However, it is not a complete victory for Mr. Cortez and his Defense Attourney Winona Johnston as the jury did retun a verdict of guilty for the narcotics seized in his residence the day of the raid.  In a secentensing hearing following the jurry's delivery of this verdict presiding Judge Steven Rogers scentences the defendant to 10-15 years for the posession of narcotics.  
+
+> Since the top count of the indictment resulted in a hung jurry Mr. Cortex could face further attempts by the prosecution to prove that he was the operator of El.Rado.  The underground service reported to have facilitated more than the equivilent of 50 million USD in the online 'Curency' AU79. El.Rado has disappeared from the Internet since the raid and US Attourney Picasso commented that, "We attempted to show that jurry that this service disapeared after the defendant's apartment was raided and has not returned while he has been in custody but since our digital evidince was corupted we were unable to provide sufficent evidince to the jurry.  I encourage Task Force Columbus to continue to access these records.  MajorNews.biz reached out to Task Force Commander Marshal Stevenson who's only response was, "I cannont comment on an investigation once it leaves the agents under my command."  Evidince will be retained if further prosecution will take place.
+
+> Mr. Cortez already remanded to custoday was transfered to the Federal Marshals service and will begin serving his scentence at a location to be determined by the department of corrections.  The minor who was also present at March raid still has not been identified though MN.B can confirm that Childrens Services has been attempting to contact any additional family but at this time no connections have been made.  
+
+> Stay tuned to MajorNews.biz for continued updates on this breaking story.
 
  
 ## The Grind:  
 2050 establish San Diego in the present day of the story, send mmc to work, daily grind and how locating edr would help.  End this section in a cube reminsing over the loss of fmc and for his desire to get out of San Diego if he had the cash
+
+"Good Moning Matthew! It's your 6AM wakeup alarm.  I have a number of breakfast specials avalible for review.  Want to hear more?"
+
+"Nothing like a 6AM alarm from a phone full of overdue bill notifications."  I remarked to no one as I tried to find the phone and turn it off. 
+
+"Good Moning Matthew! It's your 6AM wakeup alarm.  I have a number of breakfast specials avalible for review.  Want to hear more?"
+
+When your down on your luck and the only phone you can afford is free from an ad subsidy you know you're in a good place.  
+
+"Good Moning Matthew! It's your 6AM wakeup alar..." 
+
+I finnaly got ahold of the mobile and shut the alarm off and got ready to face another day. You'd think the life of a federal contractor would be a glamorous one, or at least one which could at least allow you to afford a cell phone that wasn't shilling to you every waking moment.  The governemnt in 2050 isn't quitle like it was at the beginning of the 21st century and the news I scrolled through while I ploughed through an MRE only reinforced things
+
+> ###
+
+
+
+
 ## The Incarceration:  
 2025 Micro-Autobiography from the cellmate of fmc covering fmc in prision and his interaction with m13 ending with his death. A cellmate needs to be mentioned here so that mmc can attempt to track him down in future.  fmc will bost in prision about what is waiting for him when he makes it out, the ledgend of edr reaches m13.  Make sure to include details about the cirme scene which will be included in the Warning and The Trouble.
 ## The Search:  
